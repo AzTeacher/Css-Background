@@ -1,0 +1,26 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+body {
+    background-color: red;
+}
+
+/* .container {
+    background-image: url("./end-logo.png");
+    background-repeat: no-repeat;
+    background-size: 20%;
+    background-position: left top;
+    background-attachment: fixed;
+} */
+
+
+.container {
+    background: #fff url("./end-logo.png") top left fixed no-repeat;
+    background-size: 20%;
+}
+
+
